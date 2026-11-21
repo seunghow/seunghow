@@ -37,6 +37,15 @@ I build AI for journalism, and the editorial rules that keep journalists in char
 - **AI NOVA opens to reporters worldwide (2026-06-07)** — ainova.news…전 세계 기자 비서로 — https://www.sedaily.com/article/20052663
 - **AI GLOBE: 400 articles a day, 24/7 (2026-06-07)** — 하루 400건·24시간 쉼 없이 번역…한국에만 있는 제도·용어도 척척 — https://www.sedaily.com/article/20052662
 
+## Writing, talks & coverage
+
+- **AWS Tech Blog (April 2026)** — "How a 25-year reporter built an AI news service: Seoul Economic Daily's Amazon Bedrock prompt-engineering practice" — the architecture, prompt design, cost optimisation and results behind AI LINK, written for a non-developer audience — https://aws.amazon.com/ko/blogs/tech/ai-news-service-using-amazon-bedrock-prompt-engineering-case/
+- **The Journalist — profile interview (24 July 2026)** — "A reporter who knew no code built an AI news service in a year" — https://journalist.or.kr/news/article.html?no=61332
+- **The Journalist — "AI, from story idea to filing" (9 July 2026)** — on what newsroom AI changes and what it does not — https://journalist.or.kr/news/article.html?no=61238
+- **The Journalist — "Recommendation, first-pass translation, sentiment analysis" (24 September 2024)** — on the first year of AI experiments — https://journalist.or.kr/news/article.html?no=56745
+- **Gangwon Domin Ilbo (4 August 2026)** — lecture on AI journalism and the zero-click newsroom — https://www.kado.net/news/articleView.html?idxno=2064718
+- **Kyeonggi Ilbo (3 November 2026)** — "A reporter should change the newsroom with AI" — https://www.kyeonggi.com/article/20261103580250
+
 ## Data journalism
 
 - **"The Power of News"** (2026, with Sogang University) — 118,602 policy stories matched to the daily stock moves of 906 listed companies. Every figure was recomputed and audited before publication, and the results we decided not to publish are shown next to the ones we did.
@@ -46,8 +55,8 @@ I build AI for journalism, and the editorial rules that keep journalists in char
 
 - **WAN-IFRA Digital Media Awards Worldwide 2026** — Winner, Best AI-Driven News Product, Format or Strategy (AI LINK), June 2026 — https://wan-ifra.org/2026/06/global-winners-of-digital-media-awards-2026-honoured-at-marseille-congress/
 - **WAN-IFRA Digital Media Awards Asia 2026** — Gold, Best AI-Driven News Product, Format or Strategy (AI LINK); Gold, Best Newsletter (AI PRISM); Silver, Most Innovative Digital Product (AI NOVA), April 2026
-- **3rd Korea Digital Journalism Innovation Awards 2026** — Grand Prize, co-winner with three colleagues from the Future Strategy team (AI LINK), February 2026
-- **2026 KAA Awards** (한국광고주대회) — Feature Reporting of the Year, online content (ATLAS), October 2026
+- **3rd Korea Digital Journalism Innovation Awards 2026** — Grand Prize, co-winner with three colleagues from the Future Strategy team (AI LINK), February 2026 — https://www.sedaily.com/article/20008559
+- **2026 KAA Awards** (한국광고주대회) — Feature Reporting of the Year, online content (ATLAS), October 2026 — https://www.sedaily.com/article/20100770 · English: https://en.sedaily.com/economy/2026/10/13/seoul-economic-dailys-atlas-wins-advertisers-feature · third-party coverage: https://www.dt.co.kr/article/12088746 · https://www.yna.co.kr/view/AKR20261013041200003
 - **Journalist of the Month** (이달의 기자상) — six individual awards, 2001–2014
 - **14th Samsung Press Award** (2010) — planning feature
 - **Korea Science Journalists Award** (2014)
